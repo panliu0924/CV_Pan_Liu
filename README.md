@@ -1,1 +1,0 @@
-This directory contains the source files of EE577B Course Project of Cadinal Four Core Multidirectional Processor. I am responsible for the Routers and Ring, the final CMP, and their test benches and simulations.
